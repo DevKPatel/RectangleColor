@@ -14,5 +14,5 @@ function colorRectangle() {
     }
   });
 }
-
+colorRectangle();
 
